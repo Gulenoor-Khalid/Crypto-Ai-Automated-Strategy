@@ -110,7 +110,8 @@ MIT License - Free to use with attribution
 
 ⭐ **Star this repo** if you find it useful!
 
-[![LinkedIn](https://www.linkedin.com/in/gul-e-noor-khalid)
-[![Email]gulenoor.ai.automation@gmail.com
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gul-e-noor-khalid)
+[![Email Badge](https://img.shields.io/badge/Email-Contact-red)](mailto:gulenoor.ai.automation@gmail.com)
+
 
 </div>
